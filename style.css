@@ -1,0 +1,133 @@
+/* HEADER */
+header, footer {
+    background-color: #d9d9d9;
+    text-align: center;
+    height: auto;
+    width: auto;
+}
+
+section {
+    height: auto;
+    padding-bottom: 50px;
+    width: auto;
+}
+
+nav {
+    float: left;
+}
+
+#menu {
+    margin:auto;
+    width: 50%;
+    text-align: center;
+}
+
+#progetto {
+    height: 300px;
+    width: auto;
+  border: 5px solid gray;
+  margin: auto;
+  background-color: aquamarine;
+}
+
+#first_homepage_section {
+    background-color: beige;
+}
+
+#second_homepage_section {
+    background-color: aquamarine;
+}
+
+#img-v-machine {
+    opacity: 0.3;
+}
+
+#item-v {
+    background-color: white;
+}
+
+.image {
+    height: 300px;
+    ;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col-sm-4 {
+    margin: auto;
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    
+}
+
+h2 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+h4 {
+    font-size: 15px;
+}
+
+p {
+    font-family: Georgia;
+}
+
+a {
+    color: black;
+}
+
+
+a:hover, a:active {
+	text-decoration: underline;
+	background-color: red;
+	color: blueviolet;
+
+}
+
+.active {
+    background-color:#3c3c3c ;
+}
+
+
+.card {
+    margin: auto;
+    width: 200px;
+    height: auto;
+    box-sizing: border-box;
+}
+
+
+
+.col-md-5 {
+    background-color: aliceblue;
+    margin: auto;
+    height: auto;
+    box-sizing: border-box;
+    padding-left: 50px;
+    
+}
+
+.col-md-2{
+    width: ;
+}
+
+.card-img-top {
+
+}
