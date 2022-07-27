@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Prima riga è il prologo -->
+
+	<item>
+		<dc:identifier></dc:identifier>
+		<dc:title>Di bestia in bestia - Edizione digitale</dc:title>
+		<dc:description>Edizione digitale del romanzo Di bestia in bestia di Michele Mari</dc:description>
+		<dc:creator>Mari, Michele</dc:creator>
+		<dc:publisher>Università di Bologna</dc:publisher>
+		<dc:date>2022</dc:date>>
+		<dc:language>Italian</dc:language>
+		<dc:coverage>Italy</dc:coverage>
+		<dc:subject>Narrativa italiana</dc:subject>
+		<dc:subject>853.914 NARRATIVA ITALIANA. 1945-</dc:subject>
+		<dc:type>text</dc:type>
+		<dc:format>electronic</dc:format>
+		<dc:source xml:id="bestia_einaudi">Mari, Michele. Di bestia in bestia Torino Einaudi, 2013</dc:source>
+		<dc:source xml:id="bestia_longanesi">Mari, Michele. Di bestia in bestia : una storia vera fra languore ed ardore. Milano Longanesi, 1989</dc:source>
+		<dc:relation></dc:relation>
+	</item>
